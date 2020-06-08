@@ -1,4 +1,12 @@
+# Docsify
+
 ![](https://i.imgur.com/h5qwfCU.png)
+
+## Repositories
+
+ - [Docsify](https://github.com/MLH-Fellowship/docsify)
+
+## Project Overview
 
 - All the work here is for the core [Docsify codebase](https://github.com/docsifyjs/docsify/)
 - Here are some example of GitHub issues they’ve saved for fellows:
