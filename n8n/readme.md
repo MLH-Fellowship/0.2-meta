@@ -1,4 +1,12 @@
+# N8N
+
 ![](https://i.imgur.com/aKwQoiJ.png)
+
+## Repositories
+
+- [n8n](https://github.com/MLH-Fellowship/n8n)
+
+## Project Overview
 
 - N8N will start with [creating and updating nodes for n8n](https://n8n.io/integrations)
   - They’ve specifically asked for a Discord node we can use during the fellowship
