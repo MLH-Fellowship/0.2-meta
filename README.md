@@ -1,2 +1,28 @@
-# 0.2.X-projects
-Project Overview for 0.2.X
+- 0.2.1 - Distributed Dodos
+  - AWS Amplify
+    - Cedric    Grothues
+    - Nicholas Chaloult
+    - Kenneth Aladi
+    - Sebastian Crossa
+  - N8n
+    - Erin McNulty
+    - Iván Ovejero
+    - Ralph Maamari
+    - Shraddha Shaligram (0.2.2) GMT - 8
+  - Webaverse
+    - Nicole Danuwidjaja (0.2.2) GMT - 8
+    - YaHeng Su (0.2.2) GMT - 7
+    - Shubham Jain
+- 0.2.2 - Javascript Jellies
+  - Babel
+    - Jorge Henriquez
+    - Janie Wang
+    - William Law
+    - Barron    Wei (0.2.1) GMT -5
+  - Docsify
+    - Kirby Fernandez
+    - Anirudh Emmadi
+    - Mohammed (0.2.1) GMT -5
+  - SheetJS
+    - Srijon Saha
+    - Garrett Luu
