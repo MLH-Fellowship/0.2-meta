@@ -1,4 +1,15 @@
+# Webaverse
+
 ![](https://i.imgur.com/NzwKuep.png)
+
+## Repositories
+
+- [Webaverse](https://github.com/MLH-Fellowship/webaverse)
+- [xrpackage](https://github.com/MLH-Fellowship/xrpackage)
+- [xrpackage-cli](https://github.com/MLH-Fellowship/xrpackage-cli)
+
+
+## Project Overview
 
 - Using JavaScript for AR/VR applications. 
 - As part of this project’s team, you’ll receive a VR headset that you hack on this summer. 
