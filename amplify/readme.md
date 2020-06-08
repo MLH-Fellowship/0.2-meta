@@ -1,6 +1,13 @@
 # AWS Amplify
 
-![](https://i.imgur.com/JwRMrrV.png)
+<img src="https://i.imgur.com/JwRMrrV.png" width="500">
+
+## Repositories
+
+- [CLI](https://github.com/MLH-Fellowship/amplify-cli)
+- [Amplify](https://github.com/MLH-Fellowship/amplify-js)
+
+## Project Overview
 
 - The projects here will be both the [CLI](https://github.com/aws-amplify/amplify-cli) and [JS SDK](https://github.com/aws-amplify/amplify-js). 
   - For an example of some CLI issues, see [this tag](https://github.com/aws-amplify/amplify-cli/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement+label%3Agood-first-issue)
