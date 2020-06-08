@@ -1,4 +1,4 @@
-!()[https://i.imgur.com/NzwKuep.png)
+!()[https://i.imgur.com/NzwKuep.png]
 
 - Using JavaScript for AR/VR applications. 
 - As part of this project’s team, you’ll receive a VR headset that you hack on this summer. 
