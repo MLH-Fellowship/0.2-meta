@@ -1,4 +1,12 @@
+# SheetJS
+
 ![](https://i.imgur.com/gNLehj0.png)
+
+## Repositories
+
+- [SheetJS](https://github.com/MLH-Fellowship/sheetjs)
+
+## Project Overview
 
 - Work will start by updating and improving [the SheetJS demos](https://github.com/SheetJS/sheetjs/tree/master/demos)
   - This is a great opportunity to work with a variety of different JS frameworks and platforms
