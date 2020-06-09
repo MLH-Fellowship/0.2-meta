@@ -26,7 +26,6 @@
 
 - [Clickable Website Sidebar](https://github.com/webaverse/webaverse/issues/2)
 - [Run WebXR on Glitch](https://github.com/webaverse/xrpackage/issues/13)
-- [React](https://github.com/webaverse/xrpackage/issues/11)
 - [CORS](https://github.com/webaverse/xrpackage/issues/21)
 
 Also, looks like they're really intersted in feedback. Filing github issues in regards to problems you find while getting started would be helpful.
@@ -36,6 +35,7 @@ Also, looks like they're really intersted in feedback. Filing github issues in r
 
 ## Longer Tasks (User Stories)
 
+- [React](https://github.com/webaverse/xrpackage/issues/11)
 - As a new WebXR developer, I would like to develop a WebXR app based on a guide I found on Webaverse that can run alongside other apps.
 - As a WebXR developer with an app, I would like to package it to be listed on XRPackage.org
 - As an iPhone user using Mozilla WebXR viewer, I would like to view XRpackage WebXR apps in an AR context.
