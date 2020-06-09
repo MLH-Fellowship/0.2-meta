@@ -17,12 +17,27 @@
   - WebGL, THREE.js, A-Frame, 3D geometry, WebXR, WebAssembly, Compilers, Websockets, Node, C++, Rust
 - Some of the issues are going to be best seen when using https://store.steampowered.com/app/685110/Metachromium/ which comes out Monday. It can be accessed in the meantime by getting a Steam key from here: http://metachromium.com/
 - Webaverse is made up of several repos. These technologies contribute to a baseline of a multi-app ecosystem in which WebXR applications may run alongside each other and to unprecedented things. One way to think about it is being able to run AR apps inside of Virtual environments.
-- I anticipate more issues showing up alongside folks getting placed. Especially as we're working toward efforts to support other developers, and having a solid SDK and docs. 
-- Logging feedback and issues found is an area for short (1-3 day) I imagine. I can open some issues that describe this.
 - Some can be found in the various webaverse org repos.
   - https://github.com/webaverse/xrpackage/issues  
 - Some user stories to consider for long could be:
-  - As a new WebXR developer, I would like to develop a WebXR app based on a guide I found on Webaverse that can run alongside other apps.
-  - As a WebXR developer with an app, I would like to package it to be listed on XRPackage.org
-  - As an iPhone user using Mozilla WebXR viewer, I would like to view XRpackage WebXR apps in an AR context.
 - As far as hard requirements go, web experience could be sufficient. But spatial interest and hardware access would be great.
+
+## Early Tasks
+
+- [Clickable Website Sidebar](https://github.com/webaverse/webaverse/issues/2)
+- [Run WebXR on Glitch](https://github.com/webaverse/xrpackage/issues/13)
+- [React](https://github.com/webaverse/xrpackage/issues/11)
+- [CORS](https://github.com/webaverse/xrpackage/issues/21)
+
+Also, looks like they're really intersted in feedback. Filing github issues in regards to problems you find while getting started would be helpful.
+
+> I anticipate more issues showing up alongside folks getting placed. Especially as we're working toward efforts to support other developers, and having a solid SDK and docs. 
+> Logging feedback and issues found is an area for short (1-3 day) I imagine. I can open some issues that describe this.
+
+## Longer Tasks (User Stories)
+
+- As a new WebXR developer, I would like to develop a WebXR app based on a guide I found on Webaverse that can run alongside other apps.
+- As a WebXR developer with an app, I would like to package it to be listed on XRPackage.org
+- As an iPhone user using Mozilla WebXR viewer, I would like to view XRpackage WebXR apps in an AR context.
+- [Third person mode](https://github.com/webaverse/xrpackage/issues/25)
+
