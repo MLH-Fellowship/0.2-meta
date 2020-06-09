@@ -13,3 +13,8 @@
     - React, Angular, Electron, Rollup, Typescript, Vue, Webpack
   - You don’t need experience in every technology, but should like to learn new things! 
  - Good opportunity to get a broad experience in JS packages
+
+## Tasks
+
+- https://github.com/SheetJS/sheetjs/issues/1960
+- https://github.com/SheetJS/sheetjs/issues/1688
