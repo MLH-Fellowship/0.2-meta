@@ -15,3 +15,10 @@
   - No compiler experience needed!
 - Open to accepting Babel core contributors
   - In any case, I recommend reading [this article](https://en.wikipedia.org/wiki/Abstract_syntax_tree). 
+
+## Tasks
+
+- https://github.com/babel/babel/issues/7277
+- https://github.com/babel/babel/issues/7357
+- https://github.com/babel/babel/issues/11646
+- https://github.com/babel/babel/issues/11272
