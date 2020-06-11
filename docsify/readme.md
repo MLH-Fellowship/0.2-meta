@@ -17,7 +17,3 @@
   - [Dark Mode](https://github.com/docsifyjs/docsify/issues/1092)
 - Seems like a good opportunity to have a real influence on the product
 - They are interested in creating a test suite as well!
-
-### Issues being worked on:
- - Mohammed Sahl:
-   - [Collapsible sidebar root sidebar items](https://github.com/docsifyjs/docsify/issues/900) (Not assigned, currently investigating changes in code requried)
