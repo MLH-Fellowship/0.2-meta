@@ -1,6 +1,7 @@
 # Webaverse
 
 ![](https://i.imgur.com/NzwKuep.png)
+![](/webaverse/xrpackage-movement.gif)
 
 ## Repositories
 
