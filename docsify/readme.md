@@ -5,6 +5,7 @@
 ## Repositories
 
  - [Docsify](https://github.com/MLH-Fellowship/docsify)
+ - [Docsify CLI](https://github.com/docsifyjs/docsify-cli)
 
 ## Project Overview
 
@@ -17,3 +18,5 @@
   - [Dark Mode](https://github.com/docsifyjs/docsify/issues/1092)
 - Seems like a good opportunity to have a real influence on the product
 - They are interested in creating a test suite as well!
+- Here is the link to the curated list of projects related to docsify
+  - [Awesome Docsify](https://github.com/docsifyjs/awesome-docsify/blob/master/README.md)
